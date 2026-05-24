@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Oblikknig\Oblikknig\bin\Debug\net10.0-windows\Oblikknig.exe
+C:\Users\User\source\repos\Oblikknig\Oblikknig\bin\Debug\net10.0-windows\Oblikknig.deps.json
+C:\Users\User\source\repos\Oblikknig\Oblikknig\bin\Debug\net10.0-windows\Oblikknig.runtimeconfig.json
+C:\Users\User\source\repos\Oblikknig\Oblikknig\bin\Debug\net10.0-windows\Oblikknig.dll
+C:\Users\User\source\repos\Oblikknig\Oblikknig\bin\Debug\net10.0-windows\Oblikknig.pdb
+C:\Users\User\source\repos\Oblikknig\Oblikknig\obj\Debug\net10.0-windows\Oblikknig.Form1.resources
+C:\Users\User\source\repos\Oblikknig\Oblikknig\obj\Debug\net10.0-windows\Oblikknig.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Oblikknig\Oblikknig\obj\Debug\net10.0-windows\Oblikknig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Oblikknig\Oblikknig\obj\Debug\net10.0-windows\Oblikknig.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Oblikknig\Oblikknig\obj\Debug\net10.0-windows\Oblikknig.AssemblyInfo.cs
+C:\Users\User\source\repos\Oblikknig\Oblikknig\obj\Debug\net10.0-windows\Oblikknig.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Oblikknig\Oblikknig\obj\Debug\net10.0-windows\Oblikknig.dll
+C:\Users\User\source\repos\Oblikknig\Oblikknig\obj\Debug\net10.0-windows\refint\Oblikknig.dll
+C:\Users\User\source\repos\Oblikknig\Oblikknig\obj\Debug\net10.0-windows\Oblikknig.pdb
+C:\Users\User\source\repos\Oblikknig\Oblikknig\obj\Debug\net10.0-windows\Oblikknig.genruntimeconfig.cache
+C:\Users\User\source\repos\Oblikknig\Oblikknig\obj\Debug\net10.0-windows\ref\Oblikknig.dll
